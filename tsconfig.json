@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "./exercises",
+    "outDir": "./dist",
+    "module": "NodeNext",
+    "target": "ESNext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": true
+  }
+}
